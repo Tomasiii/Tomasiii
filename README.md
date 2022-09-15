@@ -1,4 +1,5 @@
 ### Languages & Tools
+![Next](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=NEXT)
 ![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
 ![Redux](https://img.shields.io/badge/REDUX-000?style=for-the-badge&logo=Redux&logoColor=violet)
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
