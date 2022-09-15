@@ -1,7 +1,9 @@
 ### Languages & Tools
-![Next](https://img.shields.io/badge/NEXT-000?style=for-the-badge&logo=NEXT)
+![Nextjs](https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=Nextjs&logoColor=beige)
 ![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
 ![Redux](https://img.shields.io/badge/REDUX-000?style=for-the-badge&logo=Redux&logoColor=violet)
+![Node](https://img.shields.io/badge/NODE-000?style=for-the-badge&logo=Node)
+![Nest](https://img.shields.io/badge/NEST-000?style=for-the-badge&logo=NEST&logoColor=violet)
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React Router](https://img.shields.io/badge/ReactRouter-000?style=for-the-badge&logo=ReactRouter&logoColor=green)
 ![Styled-Components](https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=StyledComponents&logoColor=purple)
@@ -11,7 +13,6 @@
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=fff)
 ![Prettier](https://img.shields.io/badge/Prettier-000?style=for-the-badge&logo=Prettier&logoColor=brown)
 ![Eslint](https://img.shields.io/badge/Eslint-000?style=for-the-badge&logo=Eslint&logoColor=pink)
-![Nextjs](https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=Nextjs&logoColor=beige)
 ![Effector](https://img.shields.io/badge/Effector-000?style=for-the-badge&logo=Effector&logoColor=orange)
 ![Nestjs](https://img.shields.io/badge/Nestjs-000?style=for-the-badge&logo=Nestjs&logoColor=blue)
 ![TypeORM](https://img.shields.io/badge/TypeORM-000?style=for-the-badge&logo=TypeORM&logoColor=scarlet)
